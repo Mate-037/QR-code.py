@@ -37,4 +37,3 @@ img = qr.make_image(
 plt.imshow(img)
 plt.axis("on")
 plt.show
-sbxhdhnk
